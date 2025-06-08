@@ -1,4 +1,4 @@
-# Dino_T_Rex_game
+# Dino_T_Rex_GAME
 
 [Click here](https://akezhev.github.io/Dino_T_Rex_game/)
 
